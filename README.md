@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0004-median-of-two-sorted-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -13,4 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0009-palindrome-number) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
