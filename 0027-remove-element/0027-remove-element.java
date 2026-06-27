@@ -10,6 +10,9 @@ class Solution {
                 end = end-1;
                 
             }
+            else{
+                continue;
+            }
         }
         count = end +1;
         return count;
