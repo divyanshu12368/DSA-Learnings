@@ -3,7 +3,7 @@ class Solution {
         int left[] = new int[height.length];
         int right[] = new int[height.length];
         int trap = 0;
-        
+        int mb;
         //to calculate highest left baar array
         left[0] = height[0];
         for(int i = 1; i<left.length; i++){
@@ -18,10 +18,9 @@ class Solution {
 
         // to calculate trap water for all bar
         for(int i = 0; i<height.length; i++){
-            int mb = Math.min(left[i],right[i]);
+            mb = Math.min(left[i],right[i]);
             trap += mb-height[i];
         }
-
         return trap;
         
     }
