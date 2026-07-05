@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0042-trapping-rain-water) |
 | [0283-move-zeroes](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
@@ -61,8 +62,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
