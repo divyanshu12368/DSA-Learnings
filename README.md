@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0042-trapping-rain-water) |
+| [0054-spiral-matrix](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0283-move-zeroes) |
 ## Hash Table
@@ -77,4 +78,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0029-divide-two-integers) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
