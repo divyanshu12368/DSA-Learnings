@@ -26,12 +26,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0070-climbing-stairs) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0069-sqrtx) |
 ## Divide and Conquer
 |  |
 | ------- |
