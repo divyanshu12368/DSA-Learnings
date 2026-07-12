@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0136-single-number) |
 ## Matrix
 |  |
 | ------- |
