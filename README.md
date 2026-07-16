@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0344-reverse-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0344-reverse-string) |
 ## Trie
 |  |
 | ------- |
