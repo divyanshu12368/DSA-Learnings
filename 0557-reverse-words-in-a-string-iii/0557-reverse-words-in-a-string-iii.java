@@ -11,7 +11,6 @@ class Solution {
             if(i<arr.length-1){
                 newS.append(" ");
             }
-            else{continue;}
         }
         return newS.toString();
     }
