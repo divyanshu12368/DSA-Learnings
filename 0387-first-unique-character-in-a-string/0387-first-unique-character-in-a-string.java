@@ -11,6 +11,9 @@ class Solution {
             if(map.get(x)==1){
                 return i;
             }
+            else{
+                continue;
+            }
         }
         return -1;
     }
