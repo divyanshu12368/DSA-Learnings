@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0136-single-number) |
+| [1009-complement-of-base-10-integer](https://github.com/divyanshu12368/DSA-Learnings/tree/master/1009-complement-of-base-10-integer) |
 ## Matrix
 |  |
 | ------- |
