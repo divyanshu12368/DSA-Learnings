@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0485-max-consecutive-ones) |
@@ -150,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0011-container-with-most-water) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
