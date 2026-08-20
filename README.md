@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0387-first-unique-character-in-a-string) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/divyanshu12368/DSA-Learnings/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Binary Search
 |  |
@@ -60,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0611-valid-triangle-number](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0611-valid-triangle-number) |
 ## Divide and Conquer
@@ -133,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0268-missing-number) |
 | [1009-complement-of-base-10-integer](https://github.com/divyanshu12368/DSA-Learnings/tree/master/1009-complement-of-base-10-integer) |
 ## Matrix
 |  |
@@ -152,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0611-valid-triangle-number](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0611-valid-triangle-number) |
