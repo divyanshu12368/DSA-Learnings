@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/divyanshu12368/DSA-Learnings/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/divyanshu12368/DSA-Learnings/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1389-create-target-array-in-the-given-order](https://github.com/divyanshu12368/DSA-Learnings/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/divyanshu12368/DSA-Learnings/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1920-build-array-from-permutation](https://github.com/divyanshu12368/DSA-Learnings/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/divyanshu12368/DSA-Learnings/tree/master/1929-concatenation-of-array) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0067-add-binary) |
+| [1389-create-target-array-in-the-given-order](https://github.com/divyanshu12368/DSA-Learnings/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/divyanshu12368/DSA-Learnings/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/divyanshu12368/DSA-Learnings/tree/master/1929-concatenation-of-array) |
 ## Sorting
