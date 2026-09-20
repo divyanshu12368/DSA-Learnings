@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0387-first-unique-character-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0557-reverse-words-in-a-string-iii) |
+| [3498-reverse-degree-of-a-string](https://github.com/divyanshu12368/DSA-Learnings/tree/master/3498-reverse-degree-of-a-string) |
 ## Trie
 |  |
 | ------- |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/divyanshu12368/DSA-Learnings/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/divyanshu12368/DSA-Learnings/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/divyanshu12368/DSA-Learnings/tree/master/1929-concatenation-of-array) |
+| [3498-reverse-degree-of-a-string](https://github.com/divyanshu12368/DSA-Learnings/tree/master/3498-reverse-degree-of-a-string) |
 ## Sorting
 |  |
 | ------- |
