@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/divyanshu12368/DSA-Learnings/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/divyanshu12368/DSA-Learnings/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/divyanshu12368/DSA-Learnings/tree/master/1470-shuffle-the-array) |
+| [1480-running-sum-of-1d-array](https://github.com/divyanshu12368/DSA-Learnings/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/divyanshu12368/DSA-Learnings/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/divyanshu12368/DSA-Learnings/tree/master/1929-concatenation-of-array) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/divyanshu12368/DSA-Learnings/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0238-product-of-array-except-self) |
+| [1480-running-sum-of-1d-array](https://github.com/divyanshu12368/DSA-Learnings/tree/master/1480-running-sum-of-1d-array) |
 | [3904-smallest-stable-index-ii](https://github.com/divyanshu12368/DSA-Learnings/tree/master/3904-smallest-stable-index-ii) |
 ## Quicksort
 |  |
