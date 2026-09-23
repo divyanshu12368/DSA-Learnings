@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/divyanshu12368/DSA-Learnings/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/divyanshu12368/DSA-Learnings/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/divyanshu12368/DSA-Learnings/tree/master/1929-concatenation-of-array) |
+| [2798-number-of-employees-who-met-the-target](https://github.com/divyanshu12368/DSA-Learnings/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/divyanshu12368/DSA-Learnings/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3483-unique-3-digit-even-numbers](https://github.com/divyanshu12368/DSA-Learnings/tree/master/3483-unique-3-digit-even-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/divyanshu12368/DSA-Learnings/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
