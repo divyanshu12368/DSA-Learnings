@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0075-sort-colors) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Stack
