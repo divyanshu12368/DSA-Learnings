@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0217-contains-duplicate) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0074-search-a-2d-matrix) |
 | [0832-flipping-an-image](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0832-flipping-an-image) |
 | [2965-find-missing-and-repeated-values](https://github.com/divyanshu12368/DSA-Learnings/tree/master/2965-find-missing-and-repeated-values) |
