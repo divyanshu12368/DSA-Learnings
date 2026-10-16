@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/divyanshu12368/DSA-Learnings/tree/master/2965-find-missing-and-repeated-values) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/divyanshu12368/DSA-Learnings/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/divyanshu12368/DSA-Learnings/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/divyanshu12368/DSA-Learnings/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3483-unique-3-digit-even-numbers](https://github.com/divyanshu12368/DSA-Learnings/tree/master/3483-unique-3-digit-even-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/divyanshu12368/DSA-Learnings/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/divyanshu12368/DSA-Learnings/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/divyanshu12368/DSA-Learnings/tree/master/1480-running-sum-of-1d-array) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/divyanshu12368/DSA-Learnings/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3904-smallest-stable-index-ii](https://github.com/divyanshu12368/DSA-Learnings/tree/master/3904-smallest-stable-index-ii) |
 ## Quicksort
 |  |
