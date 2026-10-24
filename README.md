@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/divyanshu12368/DSA-Learnings/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/divyanshu12368/DSA-Learnings/tree/master/1512-number-of-good-pairs) |
+| [2409-count-days-spent-together](https://github.com/divyanshu12368/DSA-Learnings/tree/master/2409-count-days-spent-together) |
 | [2965-find-missing-and-repeated-values](https://github.com/divyanshu12368/DSA-Learnings/tree/master/2965-find-missing-and-repeated-values) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/divyanshu12368/DSA-Learnings/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/divyanshu12368/DSA-Learnings/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0387-first-unique-character-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0557-reverse-words-in-a-string-iii) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/divyanshu12368/DSA-Learnings/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2409-count-days-spent-together](https://github.com/divyanshu12368/DSA-Learnings/tree/master/2409-count-days-spent-together) |
 | [2418-sort-the-people](https://github.com/divyanshu12368/DSA-Learnings/tree/master/2418-sort-the-people) |
 | [2942-find-words-containing-character](https://github.com/divyanshu12368/DSA-Learnings/tree/master/2942-find-words-containing-character) |
 | [3498-reverse-degree-of-a-string](https://github.com/divyanshu12368/DSA-Learnings/tree/master/3498-reverse-degree-of-a-string) |
