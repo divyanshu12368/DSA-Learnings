@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/divyanshu12368/DSA-Learnings/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3668-restore-finishing-order](https://github.com/divyanshu12368/DSA-Learnings/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/divyanshu12368/DSA-Learnings/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/divyanshu12368/DSA-Learnings/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3904-smallest-stable-index-ii](https://github.com/divyanshu12368/DSA-Learnings/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/divyanshu12368/DSA-Learnings/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/divyanshu12368/DSA-Learnings/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/divyanshu12368/DSA-Learnings/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/divyanshu12368/DSA-Learnings/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3871-count-commas-in-range-ii](https://github.com/divyanshu12368/DSA-Learnings/tree/master/3871-count-commas-in-range-ii) |
 ## Binary Search
 |  |
