@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -369,4 +370,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/divyanshu12368/DSA-Learnings/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Linked List
+|  |
+| ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 <!---LeetCode Topics End-->
