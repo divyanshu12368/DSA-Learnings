@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/divyanshu12368/DSA-Learnings/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/divyanshu12368/DSA-Learnings/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3668-restore-finishing-order](https://github.com/divyanshu12368/DSA-Learnings/tree/master/3668-restore-finishing-order) |
+| [3693-climbing-stairs-ii](https://github.com/divyanshu12368/DSA-Learnings/tree/master/3693-climbing-stairs-ii) |
 | [3731-find-missing-elements](https://github.com/divyanshu12368/DSA-Learnings/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/divyanshu12368/DSA-Learnings/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3904-smallest-stable-index-ii](https://github.com/divyanshu12368/DSA-Learnings/tree/master/3904-smallest-stable-index-ii) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0070-climbing-stairs) |
 | [0097-interleaving-string](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0097-interleaving-string) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [3693-climbing-stairs-ii](https://github.com/divyanshu12368/DSA-Learnings/tree/master/3693-climbing-stairs-ii) |
 ## Stack
 |  |
 | ------- |
