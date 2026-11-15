@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/divyanshu12368/DSA-Learnings/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/divyanshu12368/DSA-Learnings/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/divyanshu12368/DSA-Learnings/tree/master/1512-number-of-good-pairs) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/divyanshu12368/DSA-Learnings/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1528-shuffle-string](https://github.com/divyanshu12368/DSA-Learnings/tree/master/1528-shuffle-string) |
 | [1920-build-array-from-permutation](https://github.com/divyanshu12368/DSA-Learnings/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/divyanshu12368/DSA-Learnings/tree/master/1929-concatenation-of-array) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/divyanshu12368/DSA-Learnings/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/divyanshu12368/DSA-Learnings/tree/master/1512-number-of-good-pairs) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/divyanshu12368/DSA-Learnings/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2409-count-days-spent-together](https://github.com/divyanshu12368/DSA-Learnings/tree/master/2409-count-days-spent-together) |
 | [2965-find-missing-and-repeated-values](https://github.com/divyanshu12368/DSA-Learnings/tree/master/2965-find-missing-and-repeated-values) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/divyanshu12368/DSA-Learnings/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0070-climbing-stairs) |
 | [0097-interleaving-string](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0097-interleaving-string) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/divyanshu12368/DSA-Learnings/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3693-climbing-stairs-ii](https://github.com/divyanshu12368/DSA-Learnings/tree/master/3693-climbing-stairs-ii) |
 ## Stack
 |  |
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/divyanshu12368/DSA-Learnings/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/divyanshu12368/DSA-Learnings/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/divyanshu12368/DSA-Learnings/tree/master/3364-minimum-positive-sum-subarray) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/divyanshu12368/DSA-Learnings/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3904-smallest-stable-index-ii](https://github.com/divyanshu12368/DSA-Learnings/tree/master/3904-smallest-stable-index-ii) |
