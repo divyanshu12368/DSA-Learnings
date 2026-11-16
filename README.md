@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1528-shuffle-string](https://github.com/divyanshu12368/DSA-Learnings/tree/master/1528-shuffle-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/divyanshu12368/DSA-Learnings/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/divyanshu12368/DSA-Learnings/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/divyanshu12368/DSA-Learnings/tree/master/2409-count-days-spent-together) |
 | [2418-sort-the-people](https://github.com/divyanshu12368/DSA-Learnings/tree/master/2418-sort-the-people) |
 | [2942-find-words-containing-character](https://github.com/divyanshu12368/DSA-Learnings/tree/master/2942-find-words-containing-character) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/divyanshu12368/DSA-Learnings/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/divyanshu12368/DSA-Learnings/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/divyanshu12368/DSA-Learnings/tree/master/1929-concatenation-of-array) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/divyanshu12368/DSA-Learnings/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/divyanshu12368/DSA-Learnings/tree/master/2553-separate-the-digits-in-an-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/divyanshu12368/DSA-Learnings/tree/master/3498-reverse-degree-of-a-string) |
 ## Sorting
