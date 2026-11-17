@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0575-distribute-candies) |
 | [0611-valid-triangle-number](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0704-binary-search) |
+| [0812-largest-triangle-area](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0812-largest-triangle-area) |
 | [0832-flipping-an-image](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/divyanshu12368/DSA-Learnings/tree/master/1051-height-checker) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0268-missing-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0812-largest-triangle-area](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0812-largest-triangle-area) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/divyanshu12368/DSA-Learnings/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/divyanshu12368/DSA-Learnings/tree/master/1512-number-of-good-pairs) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/divyanshu12368/DSA-Learnings/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -396,4 +398,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0040-combination-sum-ii) |
+## Geometry
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0812-largest-triangle-area) |
+## Polygons
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0812-largest-triangle-area) |
 <!---LeetCode Topics End-->
