@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/divyanshu12368/DSA-Learnings/tree/master/1512-number-of-good-pairs) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/divyanshu12368/DSA-Learnings/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1528-shuffle-string](https://github.com/divyanshu12368/DSA-Learnings/tree/master/1528-shuffle-string) |
+| [1748-sum-of-unique-elements](https://github.com/divyanshu12368/DSA-Learnings/tree/master/1748-sum-of-unique-elements) |
 | [1920-build-array-from-permutation](https://github.com/divyanshu12368/DSA-Learnings/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/divyanshu12368/DSA-Learnings/tree/master/1929-concatenation-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/divyanshu12368/DSA-Learnings/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0575-distribute-candies) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/divyanshu12368/DSA-Learnings/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/divyanshu12368/DSA-Learnings/tree/master/1512-number-of-good-pairs) |
+| [1748-sum-of-unique-elements](https://github.com/divyanshu12368/DSA-Learnings/tree/master/1748-sum-of-unique-elements) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/divyanshu12368/DSA-Learnings/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2418-sort-the-people](https://github.com/divyanshu12368/DSA-Learnings/tree/master/2418-sort-the-people) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/divyanshu12368/DSA-Learnings/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/divyanshu12368/DSA-Learnings/tree/master/1512-number-of-good-pairs) |
+| [1748-sum-of-unique-elements](https://github.com/divyanshu12368/DSA-Learnings/tree/master/1748-sum-of-unique-elements) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/divyanshu12368/DSA-Learnings/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Queue
 |  |
