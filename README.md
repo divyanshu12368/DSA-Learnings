@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0485-max-consecutive-ones) |
 | [0575-distribute-candies](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0575-distribute-candies) |
 | [0611-valid-triangle-number](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0611-valid-triangle-number) |
+| [0682-baseball-game](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0704-binary-search) |
 | [0812-largest-triangle-area](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0812-largest-triangle-area) |
 | [0832-flipping-an-image](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0832-flipping-an-image) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0042-trapping-rain-water) |
+| [0682-baseball-game](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0682-baseball-game) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0067-add-binary) |
+| [0682-baseball-game](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0832-flipping-an-image) |
 | [1389-create-target-array-in-the-given-order](https://github.com/divyanshu12368/DSA-Learnings/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/divyanshu12368/DSA-Learnings/tree/master/1920-build-array-from-permutation) |
