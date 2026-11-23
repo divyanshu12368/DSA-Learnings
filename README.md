@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0611-valid-triangle-number) |
 | [0682-baseball-game](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0705-design-hashset) |
 | [0812-largest-triangle-area](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0812-largest-triangle-area) |
 | [0832-flipping-an-image](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0977-squares-of-a-sorted-array) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0387-first-unique-character-in-a-string) |
 | [0575-distribute-candies](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0575-distribute-candies) |
+| [0705-design-hashset](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0705-design-hashset) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/divyanshu12368/DSA-Learnings/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/divyanshu12368/DSA-Learnings/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/divyanshu12368/DSA-Learnings/tree/master/1748-sum-of-unique-elements) |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0705-design-hashset](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0705-design-hashset) |
 ## Backtracking
 |  |
 | ------- |
@@ -415,4 +418,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0812-largest-triangle-area) |
+## Design
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0705-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
