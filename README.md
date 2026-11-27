@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0819-most-common-word) |
 | [0832-flipping-an-image](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0867-transpose-matrix) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/divyanshu12368/DSA-Learnings/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/divyanshu12368/DSA-Learnings/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0575-distribute-candies) |
 | [0705-design-hashset](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0705-design-hashset) |
 | [0819-most-common-word](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0819-most-common-word) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/divyanshu12368/DSA-Learnings/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/divyanshu12368/DSA-Learnings/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/divyanshu12368/DSA-Learnings/tree/master/1748-sum-of-unique-elements) |
@@ -435,4 +437,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0705-design-hashset) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0961-n-repeated-element-in-size-2n-array) |
 <!---LeetCode Topics End-->
