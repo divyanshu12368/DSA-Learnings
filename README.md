@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0867-transpose-matrix) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0977-squares-of-a-sorted-array) |
+| [1030-matrix-cells-in-distance-order](https://github.com/divyanshu12368/DSA-Learnings/tree/master/1030-matrix-cells-in-distance-order) |
 | [1051-height-checker](https://github.com/divyanshu12368/DSA-Learnings/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/divyanshu12368/DSA-Learnings/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/divyanshu12368/DSA-Learnings/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0268-missing-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0812-largest-triangle-area](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0812-largest-triangle-area) |
+| [1030-matrix-cells-in-distance-order](https://github.com/divyanshu12368/DSA-Learnings/tree/master/1030-matrix-cells-in-distance-order) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/divyanshu12368/DSA-Learnings/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/divyanshu12368/DSA-Learnings/tree/master/1512-number-of-good-pairs) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/divyanshu12368/DSA-Learnings/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0074-search-a-2d-matrix) |
 | [0832-flipping-an-image](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0867-transpose-matrix) |
+| [1030-matrix-cells-in-distance-order](https://github.com/divyanshu12368/DSA-Learnings/tree/master/1030-matrix-cells-in-distance-order) |
 | [2965-find-missing-and-repeated-values](https://github.com/divyanshu12368/DSA-Learnings/tree/master/2965-find-missing-and-repeated-values) |
 ## Simulation
 |  |
@@ -315,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0611-valid-triangle-number](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0611-valid-triangle-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0977-squares-of-a-sorted-array) |
+| [1030-matrix-cells-in-distance-order](https://github.com/divyanshu12368/DSA-Learnings/tree/master/1030-matrix-cells-in-distance-order) |
 | [1051-height-checker](https://github.com/divyanshu12368/DSA-Learnings/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/divyanshu12368/DSA-Learnings/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/divyanshu12368/DSA-Learnings/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -425,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/divyanshu12368/DSA-Learnings/tree/master/0812-largest-triangle-area) |
+| [1030-matrix-cells-in-distance-order](https://github.com/divyanshu12368/DSA-Learnings/tree/master/1030-matrix-cells-in-distance-order) |
 ## Polygons
 |  |
 | ------- |
